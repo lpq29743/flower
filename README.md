@@ -9,6 +9,7 @@ git clone https://github.com/lpq29743/flower.git
 cd flower
 mysql -u 用户名 -p 密码
 source flowernew.sql
+```
 
 ## 部分截图
 
