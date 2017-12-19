@@ -13,11 +13,11 @@ source flowernew.sql
 
 ## 部分截图
 
-<img src="https://github.com/lpq29743/flower/blob/master/screenshots/flower.png" weight="300" alt="鲜花网" align=center />
-<img src="https://github.com/lpq29743/flower/blob/master/screenshots/showflower.png" weight="300" alt="显示鲜花" align=center />
-<img src="https://github.com/lpq29743/flower/blob/master/screenshots/flowerdetail.png" weight="300" alt="鲜花详情" align=center />
-<img src="https://github.com/lpq29743/flower/blob/master/screenshots/register.png" weight="300" alt="注册" align=center />
-<img src="https://github.com/lpq29743/flower/blob/master/screenshots/shoplist.png" weight="300" alt="购物车" align=center />
+<img src="https://github.com/lpq29743/flower/blob/master/screenshots/flower.png" weight="100" alt="鲜花网" align=center />
+<img src="https://github.com/lpq29743/flower/blob/master/screenshots/showflower.png" weight="100" alt="显示鲜花" align=center />
+<img src="https://github.com/lpq29743/flower/blob/master/screenshots/flowerdetail.png" weight="100" alt="鲜花详情" align=center />
+<img src="https://github.com/lpq29743/flower/blob/master/screenshots/register.png" weight="100" alt="注册" align=center />
+<img src="https://github.com/lpq29743/flower/blob/master/screenshots/shoplist.png" weight="100" alt="购物车" align=center />
 
 ## 用到的框架和工具
 
